@@ -11,7 +11,7 @@ general:
   # mailto:contact@example.com
   contact_url: mailto:fr0st.xyz@tuta.io
   # record stats
-  enable_metrics: true
+  enable_metrics: false
   # expose stats in open metrics format at /metrics
   # leave empty to disable (no password set)
   # open_metrics: <password>
