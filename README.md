@@ -8,9 +8,14 @@
 - **URL:** [https://search.fr0st.xyz](https://search.fr0st.xyz)
 - **Search backend:** [SearxNG](https://github.com/searxng/searxng)
 - **Hosted via:** Cloudflare Tunnel (for HTTPS and DDoS protection)
+- **Privacy:** `Medium` — Cloudflare can see the search queries since the traffic passes through their proxy.
+- **Note:** Currently hosted this way until I get a VPS for better control and privacy.
 - **No logs:** Search queries are not logged or tracked
 - **Private:** Does not use third-party analytics, cookies, or profiling
 - **Open source:** Configurations and deployment are public in this repo
+
+
+
 
 ### Support
 
