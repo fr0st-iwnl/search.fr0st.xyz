@@ -9,7 +9,7 @@ general:
   # use false to disable the donation link
   donation_url: true
   # mailto:contact@example.com
-  contact_url: false
+  contact_url: mailto:fr0st.xyz@tuta.io
   # record stats
   enable_metrics: true
   # expose stats in open metrics format at /metrics
@@ -20,15 +20,15 @@ general:
 brand:
   new_issue_url: https://github.com/searxng/searxng/issues/new
   docs_url: https://docs.searxng.org/
-  public_instances: https://searx.space
+  public_instances: ""
   wiki_url: https://github.com/searxng/searxng/wiki
   issue_url: https://github.com/searxng/searxng/issues
-  # custom:
-  #   maintainer: "Jon Doe"
-  #   # Custom entries in the footer: [title]: [link]
-  #   links:
-  #     Uptime: https://uptime.searxng.org/history/darmarit-org
-  #     About: "https://searxng.org"
+  custom:
+    maintainer: "fr0st"
+    links:
+      Uptime: "https://status.fr0st.xyz/history/search-fr0st-xyz"
+      About: "https://fr0st.xyz"
+
 
 search:
   # Filter results. 0: None, 1: Moderate, 2: Strict
