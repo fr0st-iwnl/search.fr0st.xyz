@@ -15,6 +15,12 @@
 - **Open source:** Configurations and deployment are public in this repo
 
 
+### Status
+
+- Check the latest uptime and status here: [📊 | status.fr0st.xyz](https://status.fr0st.xyz/history/search-fr0st-xyz)
+
+
+
 
 
 ### Support
