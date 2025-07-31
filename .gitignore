@@ -27,3 +27,15 @@ searx/version_frozen.py
 .dir-locals.el
 
 .python-version
+
+
+.cloudflared/
+*.json
+
+
+# Logs & runtime data
+*.log
+logs/
+*.pid
+
+venv/
