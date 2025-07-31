@@ -1,2 +1,26 @@
-# search.fr0st.xyz
-my personal search engine
+<h1 align="center">
+  <a href="http://search.fr0st.xyz/" target="_blank"><img src="https://github.com/fr0st-iwnl/search.fr0st.xyz/blob/master/searx/static/themes/simple/img/searxng.png" alt="search.fr0st.xyz" width="600"></a>
+</h1>
+<p align="center"><strong>🔍 A self-hosted SearxNG instance with no ads, no tracking, and results from multiple search engines.</strong></p>
+
+### About
+
+- **URL:** [https://search.fr0st.xyz](https://search.fr0st.xyz)
+- **Search backend:** [SearxNG](https://github.com/searxng/searxng)
+- **Hosted via:** Cloudflare Tunnel (for HTTPS and DDoS protection)
+- **No logs:** Search queries are not logged or tracked
+- **Private:** Does not use third-party analytics, cookies, or profiling
+- **Open source:** Configurations and deployment are public in this repo
+
+### Support
+
+If you like this instance, please consider supporting the creator!
+
+<p align="left">
+  <a href="https://ko-fi.com/G2G8VK335" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.postimg.cc/rsCStVWJ/waifu.png" alt="waifu :)" width="300" />
+  </a>
+</p>
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8VK335)
