@@ -18,7 +18,7 @@ general:
   open_metrics: ''
 
 brand:
-  new_issue_url: https://github.com/searxng/searxng/issues/new
+  new_issue_url: https://github.com/fr0st-iwnl/search.fr0st.xyz/issues
   docs_url: https://docs.searxng.org/
   public_instances: ""
   wiki_url: https://github.com/searxng/searxng/wiki
