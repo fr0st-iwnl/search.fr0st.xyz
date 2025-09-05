@@ -13,7 +13,8 @@ cd search.fr0st.xyz
 
 2. Set up a Python virtual environment
 ```bash
-source ~/searxng/venv/bin/activate
+python -m venv venv
+source venv/bin/activate
 ```
 
 3. Install Python dependencies
