@@ -3,6 +3,33 @@
 </h1>
 <p align="center"><strong>🔍 A self-hosted SearxNG instance with no ads, no tracking, and results from multiple search engines.</strong></p>
 
+### Installation
+
+1. Clone this repository
+```
+git clone https://github.com/fr0st-iwnl/search.fr0st.xyz.git
+cd search.fr0st.xyz
+```
+
+2. Set up a Python virtual environment
+```bash
+source ~/searxng/venv/bin/activate
+```
+
+3. Install Python dependencies
+```py
+pip install -r requirements.txt
+```
+
+4. Run SearXNG locally
+```py
+python -m searx.webapp
+```
+- By default, it runs at: `http://127.0.0.1:8888/`
+
+
+
+
 ### About
 
 - **URL:** [https://search.fr0st.xyz](https://search.fr0st.xyz)
