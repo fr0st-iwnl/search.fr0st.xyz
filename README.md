@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```py
 python -m searx.webapp
 ```
-- By default, it runs at: `http://127.0.0.1:8888/`
+- By default, it runs at: [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
 
 
 
