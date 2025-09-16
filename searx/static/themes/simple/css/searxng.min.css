@@ -185,7 +185,7 @@ template {
 	--color-base-background: #fff;
 	--color-base-background-mobile: #f2f5f8;
 	--color-url-font: #334999;
-	--color-url-visited-font: #9822c3;
+	--color-url-visited-font: #4f0f60;
 	--color-header-background: #fdfbff;
 	--color-header-border: #ddd;
 	--color-footer-background: #fdfbff;
@@ -231,7 +231,7 @@ template {
 	--color-result-description-highlight-font: #000;
 	--color-result-link-font: #000bbb;
 	--color-result-link-font-highlight: #000bbb;
-	--color-result-link-visited-font: #9822c3;
+	--color-result-link-visited-font: #4f0f60;
 	--color-result-publishdate-font: #777;
 	--color-result-engines-font: #545454;
 	--color-result-search-url-border: #ddd;
@@ -294,7 +294,7 @@ template {
 		--color-base-background: #222428;
 		--color-base-background-mobile: #222428;
 		--color-url-font: #4dd0e1;
-		--color-url-visited-font: #c09cd9;
+		--color-url-visited-font: #009faf;
 		--color-header-background: #1e1e22;
 		--color-header-border: #333;
 		--color-footer-background: #1e1e22;
@@ -340,7 +340,7 @@ template {
 		--color-result-description-highlight-font: #fff;
 		--color-result-link-font: #4dd0e1;
 		--color-result-link-font-highlight: #4dd0e1;
-		--color-result-link-visited-font: #c09cd9;
+		--color-result-link-visited-font: #009faf;
 		--color-result-publishdate-font: #888;
 		--color-result-engines-font: #a4a4a4;
 		--color-result-search-url-border: #555;
@@ -396,7 +396,7 @@ template {
 	--color-base-background: #222428;
 	--color-base-background-mobile: #222428;
 	--color-url-font: #4dd0e1;
-	--color-url-visited-font: #c09cd9;
+	--color-url-visited-font: #009faf;
 	--color-header-background: #1e1e22;
 	--color-header-border: #333;
 	--color-footer-background: #1e1e22;
@@ -442,7 +442,7 @@ template {
 	--color-result-description-highlight-font: #fff;
 	--color-result-link-font: #4dd0e1;
 	--color-result-link-font-highlight: #4dd0e1;
-	--color-result-link-visited-font: #c09cd9;
+	--color-result-link-visited-font: #009faf;
 	--color-result-publishdate-font: #888;
 	--color-result-engines-font: #a4a4a4;
 	--color-result-search-url-border: #555;
@@ -497,7 +497,7 @@ template {
 	--color-base-background: #222428;
 	--color-base-background-mobile: #222428;
 	--color-url-font: #4dd0e1;
-	--color-url-visited-font: #c09cd9;
+	--color-url-visited-font: #009faf;
 	--color-header-background: #1e1e22;
 	--color-header-border: #333;
 	--color-footer-background: #1e1e22;
@@ -543,7 +543,7 @@ template {
 	--color-result-description-highlight-font: #fff;
 	--color-result-link-font: #4dd0e1;
 	--color-result-link-font-highlight: #4dd0e1;
-	--color-result-link-visited-font: #c09cd9;
+	--color-result-link-visited-font: #009faf;
 	--color-result-publishdate-font: #888;
 	--color-result-engines-font: #a4a4a4;
 	--color-result-search-url-border: #555;
